@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Group_10084" data-name="Group 10084" transform="translate(-67 -535)">
+    <g id="Group_10043" data-name="Group 10043">
+      <circle id="Ellipse_84" data-name="Ellipse 84" cx="42.5" cy="42.5" r="42.5" transform="translate(67 535)" fill="#03b182"/>
+      <path id="Subtraction_8" data-name="Subtraction 8" d="M85,43H0v-.033c0-.155,0-.31,0-.467A42.511,42.511,0,0,1,81.66,25.957,42.234,42.234,0,0,1,85,42.5c0,.167,0,.333,0,.5Z" transform="translate(67 535)" fill="#05cb95"/>
+      <circle id="Ellipse_88" data-name="Ellipse 88" cx="34" cy="34" r="34" transform="translate(76 544)" fill="#fff" opacity="0.152"/>
+      <g id="Group_10042" data-name="Group 10042" transform="translate(3 3)">
+        <rect id="Rectangle_1707" data-name="Rectangle 1707" width="14" height="14" rx="1" transform="translate(91 559)" fill="#fff"/>
+        <rect id="Rectangle_1710" data-name="Rectangle 1710" width="14" height="14" rx="1" transform="translate(91 578)" fill="#fff"/>
+        <rect id="Rectangle_1708" data-name="Rectangle 1708" width="14" height="14" rx="1" transform="translate(110 559)" fill="#fff"/>
+        <rect id="Rectangle_1709" data-name="Rectangle 1709" width="14" height="14" rx="7" transform="translate(110 578)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

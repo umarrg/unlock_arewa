@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="85" viewBox="0 0 85 85">
+  <g id="Group_10081" data-name="Group 10081" transform="translate(-569 -535)">
+    <circle id="Ellipse_87" data-name="Ellipse 87" cx="42.5" cy="42.5" r="42.5" transform="translate(569 535)" fill="#ae5ff2"/>
+    <path id="Subtraction_9" data-name="Subtraction 9" d="M85,43H0v-.033c0-.155,0-.31,0-.467A42.511,42.511,0,0,1,81.66,25.957,42.234,42.234,0,0,1,85,42.5c0,.167,0,.333,0,.5Z" transform="translate(569 535)" fill="#c17dfa"/>
+    <circle id="Ellipse_92" data-name="Ellipse 92" cx="34" cy="34" r="34" transform="translate(578 544)" fill="#fff" opacity="0.152"/>
+    <path id="Icon_material-event-available" data-name="Icon material-event-available" d="M27.267,18.428l-1.784-1.784-8.212,8.212L13.7,21.289l-1.784,1.784,5.351,5.351ZM31.424,4.865H29.741V1.5H26.375V4.865H12.914V1.5H9.548V4.865H7.865A3.35,3.35,0,0,0,4.517,8.231L4.5,31.789a3.365,3.365,0,0,0,3.365,3.365H31.424a3.375,3.375,0,0,0,3.365-3.365V8.231A3.375,3.375,0,0,0,31.424,4.865Zm0,26.924H7.865V13.279H31.424Z" transform="translate(592.2 557.5)" fill="#fff"/>
+  </g>
+</svg>

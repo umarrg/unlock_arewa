@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="96" viewBox="0 0 116 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#52bd94"/>
+      <stop offset="1" stop-color="#4ca884"/>
+    </linearGradient>
+    <filter id="Rectangle_1711" x="0" y="0" width="116" height="96" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feFlood flood-color="#52bd94" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10091" data-name="Group 10091" transform="translate(-8419 -1491)">
+    <g transform="matrix(1, 0, 0, 1, 8419, 1491)" filter="url(#Rectangle_1711)">
+      <rect id="Rectangle_1711-2" data-name="Rectangle 1711" width="80" height="60" rx="30" transform="translate(18 8)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Icon_awesome-camera" data-name="Icon awesome-camera" d="M24,7.5V21a2.25,2.25,0,0,1-2.25,2.25H2.25A2.25,2.25,0,0,1,0,21V7.5A2.25,2.25,0,0,1,2.25,5.25H6.374L6.95,3.708a2.246,2.246,0,0,1,2.1-1.458h5.882a2.246,2.246,0,0,1,2.1,1.458l.581,1.542h4.124A2.25,2.25,0,0,1,24,7.5Zm-6.374,6.749A5.624,5.624,0,1,0,12,19.872,5.629,5.629,0,0,0,17.622,14.248Zm-1.5,0A4.124,4.124,0,1,1,12,10.124,4.13,4.13,0,0,1,16.122,14.248Z" transform="translate(8465 1508.75)" fill="#fff"/>
+    <text id="Post" transform="translate(8465 1548)" fill="#fff" font-size="11" font-family="Nunito-Bold, Nunito" font-weight="700"><tspan x="0" y="0">Post</tspan></text>
+  </g>
+</svg>
